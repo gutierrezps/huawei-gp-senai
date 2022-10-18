@@ -33,6 +33,10 @@ As equipes (todos os membros) que tiverem um progresso de, no mínimo, 15% do cu
 
 <https://huawei-gp-senai.obs.sa-brazil-1.myhuaweicloud.com/WordPress%20v2.0.pdf>
 
+## Tutorial de instalação do phpBB
+
+Em breve
+
 ## Lista de equipes
 
 Em breve será disponibilizada aqui a lista de equipes cadastradas. Nesta lista estará presente o código de três dígitos
