@@ -2,7 +2,7 @@
 
 Olá. Nesta página você pode ter acesso às informações atualizadas do desafio Huawei do Grand Prix SENAI de Inovação.
 
-**Última atualização**: 18/10/2022 16h30
+**Última atualização**: 2022-10-19 01h30
 
 ## Desafio
 
@@ -25,6 +25,16 @@ As equipes (todos os membros) que tiverem um progresso de, no mínimo, 15% do cu
 3.	Associar-se ao SENAI DN (Mandatório)
 4.	Entrar na turma criada para Python no SENAI DN: Código JkYSvc
 
+### Vá além: ideias para se diferenciar
+
+- Melhore a segurança do seu container: altere as senhas de acesso SSH (PuTTY) e do banco de dados
+- Defina um esquema de cores para sua empresa (ex: azuis, verdes, vermelhos)
+- Personalize o WordPress com o esquema de cores escolhido
+- Altere o tema do WordPress e do phpBB
+- Adicione imagens nas páginas dos seus produtos e no fórum (use um serviço de hospedagem de imagens)
+- Nas páginas dos produtos, adicione os links para os subfóruns, e vice versa
+- Ajuste o arquivo `/var/www/html/index.html` de forma que contenha os links tanto para o WordPress quanto para o phpBB
+
 ## Materiais para inscrição na plataforma Huawei Talent
 
 <https://drive.google.com/drive/folders/1FaiZl5vvWk2I3D47uI5jP4mAFMFhzgPt?hl=pt-BR>
@@ -35,14 +45,22 @@ As equipes (todos os membros) que tiverem um progresso de, no mínimo, 15% do cu
 
 ## Tutorial de instalação do phpBB
 
-Em breve
+Baseando-se no tutorial de instalação do WordPress, instale o phpBB:
+
+1. Baixe o arquivo zip do phpBB: <https://www.phpbb.com/>
+2. Descompacte o arquivo zip baixado na pasta `/var/www/html` (utilize a ferramenta `unzip`)
+3. Altere as permissões da pasta do phpBB3 (comando `chmod`)
+4. Acesse o link `http://<endereço IP da sua equipe>:8###/phpBB3` e siga o processo de instalação (pode ignorar a mensagem "`[phpBB Debug] "chmod(): Operation not permitted"`")
+5. Ao final, remova a pasta "install" de dentro do phpBB3
 
 ## Lista de equipes
 
-Em breve será disponibilizada aqui a lista de equipes cadastradas. Nesta lista estará presente o código de três dígitos
-de cada equipe, fique ligado!
+Veja no link a seguir o código de três dígitos que identifica sua equipe (**ATENÇÃO: confira o Estado e o Autor**) e o endereço IP a ser utilizado:
+
+<https://huawei-gp-senai.obs.sa-brazil-1.myhuaweicloud.com/Identifica%C3%A7%C3%A3o%20Equipes.pdf>
 
 ## Registro de mudanças
 
-- 2022-10-18 16h30 - publicação do desafio, materiais para inscrição na plataforma Huawei Talent e tutorial de instalação do WordPress
-- 2022-10-18 11h12 - versão inicial
+- 2022-10-19 01h30 - Adicionadas ideias para se diferenciar, tutorial de instalação do phpBB e lista de equipes
+- 2022-10-18 16h30 - Publicação do desafio, materiais para inscrição na plataforma Huawei Talent e tutorial de instalação do WordPress
+- 2022-10-18 11h10 - Versão inicial
