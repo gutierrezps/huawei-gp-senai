@@ -2,7 +2,7 @@
 
 Olá. Nesta página você pode ter acesso às informações atualizadas do desafio Huawei do Grand Prix SENAI de Inovação.
 
-**Última atualização**: 2022-10-19 01h30
+**Última atualização**: 2022-10-19 10h40
 
 ## Desafio
 
@@ -19,7 +19,7 @@ Neste desafio, sua equipe terá que implementar um site de uma empresa fictícia
     2. Dentro de cada subfórum, crie um tópico fixado com as características de cada produto
     3. Simule o uso do fórum: crie dois usuários que serão os funcionários da empresa (administradores do fórum), e que deverão criar os subfóruns e e tópicos; crie outros dois usuários que serão os clientes da empresa, criando tópicos com dúvidas de cada produto que devem ser respondidas pelos usuários administradores
  
-As equipes (todos os membros) que tiverem um progresso de, no mínimo, 15% do curso de Python ganharão dois pontos como complemento, seguindo os seguintes passos:
+As equipes (todos os membros) que tiverem um progresso de, no mínimo, 5% do curso de Python ganharão dois pontos como complemento, seguindo os seguintes passos:
 1.	Acessar a Plataforma Huawei TALENT
 2.	Criar um Login Huawei usando material de apoio e guias
 3.	Associar-se ao SENAI DN (Mandatório)
@@ -61,6 +61,7 @@ Veja no link a seguir o código de três dígitos que identifica sua equipe (**A
 
 ## Registro de mudanças
 
+- 2022-10-19 10h40 - Correção do percentual mínimo de progresso no curso de Python
 - 2022-10-19 01h30 - Adicionadas ideias para se diferenciar, tutorial de instalação do phpBB e lista de equipes
 - 2022-10-18 16h30 - Publicação do desafio, materiais para inscrição na plataforma Huawei Talent e tutorial de instalação do WordPress
 - 2022-10-18 11h10 - Versão inicial
